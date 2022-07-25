@@ -1,7 +1,7 @@
 # Cryptocurrency-Price-Analysis-Dashboard
 It's a dashboard that analysis different cryptocurrencies prices along with fitting  LSTM models and evaluating their performance.
 
-The aim of this project is to create an interactive dashboard using Dash Library in python to analysis and predict 10 different cryptocurrency prices.
+The aim of this project is to create an interactive dashboard using Dash Library in python to analyse and predict 10 different cryptocurrency prices.
 
 This dashboard contains 2 interactive tabs where this first tab provides some financial analysis of 10 different cryptocurrency prices such as historical closing price, daily trading volume and daily returns. The Second tab is a demonstration of the performance of the Deep Learning Algorithm LSTM by prviding and interactive visualization of the predicted values of actual values for each cryptocurrency in additon to performance metrics such a R squared  and Root Mean Squared Errors.
 
